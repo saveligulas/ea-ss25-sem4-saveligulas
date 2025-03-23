@@ -40,13 +40,14 @@
     font-size: 16px;
     font-weight: 600;
     background-color: black;
-    transition: background-color 0.7s ease, color 0.7s ease-out;
+    transition: background-color 0.2s ease, color 0.2s ease-out;
     align-content: center;
     justify-content: center;
     text-align: center;
     height:100%;
-    width: 120px;
+    min-width: 120px;
     margin: 6px;
+    padding: 8px;
 
     &:hover {
         background-color: ghostwhite;

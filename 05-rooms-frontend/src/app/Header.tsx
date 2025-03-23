@@ -16,7 +16,10 @@ async function Header() {
                         Rooms
                     </a>
                     <a className={"nav__link"}>
-                        Reservations
+                        Reservationstesttestsetset
+                    </a>
+                    <a className={"nav__link"}>
+                        a
                     </a>
                 </li>
 
